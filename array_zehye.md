@@ -35,9 +35,7 @@ array의 2번째부터 5번째까지 자르면 [5, 2, 6, 3]입니다.<br>
 import Foundation
 
 func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
-    return commands.map({(key) in
-        return array[(key[0]-1)...(key[1]-1)].sorted()[key[2]-1]
-    })
+    return commands.map({key in array[(key[0]-1)...(key[1]-1)].sorted()[key[2]-1]})
 }
 ```
 
@@ -51,7 +49,6 @@ func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
     var answer:[Int] = []
     
     for i in commands {
-        // 
         var newArray = Array(array[i[0]-1...i[1]-1])
         // 변수 newArray 정렬 
         newArray.sort()

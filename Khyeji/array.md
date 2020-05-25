@@ -1,4 +1,4 @@
-### K번째 수
+## K번째 수
 
 *Solution 1*
 ```Swift

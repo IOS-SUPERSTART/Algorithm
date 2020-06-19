@@ -14,3 +14,11 @@
 ## 3주차
 
 - [완전탐색, 모의고사: 42840](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)
+
+## 4주차
+
+- [완전탐색, 소수찾기: 42839](https://programmers.co.kr/learn/courses/30/lessons/42839?language=swift)
+
+## 5주차
+
+- [해시, 위장: 42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift)

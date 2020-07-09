@@ -22,3 +22,7 @@
 ## 5주차
 
 - [해시, 위장: 42578](https://programmers.co.kr/learn/courses/30/lessons/42578?language=swift)
+
+## 6주차
+
+- [소트인사이드: 백준 1427번](https://www.acmicpc.net/problem/1427)

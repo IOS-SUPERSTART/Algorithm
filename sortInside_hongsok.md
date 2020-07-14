@@ -1,4 +1,7 @@
 ```
+// map이랑 joined도 가능, 성능 차이는 없었음
+print(readLine()!.sorted(by:>).map{String($0)}.joined())
+
 //
 print(readLine()!.sorted(by:>).reduce("",{String($0)+String($1)}))
 

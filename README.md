@@ -32,3 +32,4 @@
 - 각자 알고리즘 1문제 풀어오기 (해설 포함)
 - [자릿수 더하기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1876)
 - [순열 검사: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1877)
+- [나머지 한점: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1878)

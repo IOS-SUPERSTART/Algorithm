@@ -1,3 +1,5 @@
+```
+
 // land는 N행 4열
 // 1행부터 한 행씩
 // 같은 열 연속해서 밟을 수 없음
@@ -9,7 +11,6 @@
 //  [4,3,2,1]]
 // answer = 16
 
-```
 import Foundation
 
 func solution(_ land:[[Int]]) -> Int{

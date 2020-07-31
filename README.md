@@ -33,3 +33,7 @@
 - [자릿수 더하기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1876)
 - [순열 검사: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1877)
 - [나머지 한점: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1878)
+- [가장 큰 정사각형 찾기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1879)
+- [땅따먹기: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1880)
+- [스티커 모으기: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1881)
+- [단어 퍼즐: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1882)

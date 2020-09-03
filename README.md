@@ -40,8 +40,5 @@
 
 ##
 
-- [더하기 사이클: 백준 1110번](https://www.acmicpc.net/problem/1110)
-
-## 
-
-- [소수 구하기: 백준 1929](https://www.acmicpc.net/problem/1929)
+- [달팽이는 올라가고 싶다: 백준 2869번](https://www.acmicpc.net/problem/2869)
+- [ACM 호텔: 백준 10250번](https://www.acmicpc.net/problem/10250)

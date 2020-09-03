@@ -34,12 +34,14 @@
 - [순열 검사: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1877)
 - [나머지 한점: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1878)
 - [가장 큰 정사각형 찾기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1879)
-- [땅따먹기: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1880)
-- [스티커 모으기: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1881)
-- [단어 퍼즐: 프로그래머스](https://programmers.co.kr/learn/courses/18/lessons/1882)
+- [땅따먹기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1880)
+- [스티커 모으기: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1881)
+- [단어 퍼즐: 프로그래머스 - 프로그래밍 강의 - 알고리즘 문제 해설](https://programmers.co.kr/learn/courses/18/lessons/1882)
 
 ##
 
 - [더하기 사이클: 백준 1110번](https://www.acmicpc.net/problem/1110)
 
 ## 
+
+- [소수 구하기: 백준 1929](https://www.acmicpc.net/problem/1929)
